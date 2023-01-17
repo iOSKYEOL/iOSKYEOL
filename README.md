@@ -1,4 +1,4 @@
-### Hello, Playground! 👋
+### Hello, Playground! ⭐️
 
 <!--
 **iOSKYEOL/iOSKYEOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
